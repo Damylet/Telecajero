@@ -1,1 +1,1 @@
-# *** TeleCajero *** #
+#  TeleCajero #
